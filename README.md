@@ -5,7 +5,7 @@ A1: Doubly Linked List
 
 A2: Binary Search Tree
 
-A3: Minimum Binary Heap
+A3: Minimum Binary Heap (Priority Queue)
 
 A4: Splay Tree implemented as a BST
 
