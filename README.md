@@ -9,4 +9,4 @@ A3: Minimum Binary Heap (Priority Queue)
 
 A4: Splay Tree implemented as a BST
 
-A5: Directed Graph of edges and nodes with a topological sort algorithm 
+A5: Directed Graph with a topological sort algorithm 
