@@ -11,4 +11,4 @@ A4: Splay Tree implemented as a BST
 
 A5: Directed Graph with a topological sort algorithm 
 
-A6: Dijkstra's algorithm for finding the since source shortest path (weigthed edges)
+A6: Dijkstra's algorithm for single source shortest path (weigthed edges)
