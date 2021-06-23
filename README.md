@@ -1,14 +1,11 @@
-# COMP410
-Java Implementations of Data Structures
+# Data-Structures
 
-A1: Doubly Linked List
+Java Implementations of various data structures for UNC-Chapel Hill's Data Structures and Analysis.
 
-A2: Binary Search Tree
-
-A3: Minimum Binary Heap (Priority Queue)
-
-A4: Splay Tree implemented as a BST
-
-A5: Directed Graph with a topological sort algorithm 
-
-A6: Dijkstra's algorithm for single source shortest path (weighted edges)
+Contains:
+1. Doubly Linked List
+2. Binary Search Tree
+3. Minimum Binary Heap (Priority Queue)
+4. Splay Tree implemented as a BST
+5. Directed Graph with a topological sort algorithm 
+6. Dijkstra's algorithm for single source shortest path (weighted edges)
