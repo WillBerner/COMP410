@@ -1,6 +1,6 @@
 # Data-Structures
 
-Java Implementations of various data structures for UNC-Chapel Hill's Data Structures and Analysis.
+Java Implementations of various data structures for UNC-Chapel Hill's Data Structures and Analysis course.
 
 Contains:
 1. Doubly Linked List
