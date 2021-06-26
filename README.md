@@ -1,6 +1,6 @@
 # Data-Structures
 
-Java implementations of various data structures for UNC-Chapel Hill's Data Structures and Analysis course.
+Java implementations of various data structures for UNC-Chapel Hill's Data Structures and Analysis course, including algorithms used by the structure such as insert, remove, min, max, topological sort, etc. Structures implemented during assignments throughout the class semester.
 
 Contains:
 1. Doubly Linked List
